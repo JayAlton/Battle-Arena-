@@ -1,2 +1,4 @@
 # Battle-Arena-
-Medieval Battle Arena 1v1, 1 Computer Version
+Medieval Battle Arena 1v1
+1 Computer Version
+Created by Jayden Alton
